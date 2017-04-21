@@ -1,0 +1,19 @@
+{
+  "name": "wifitest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wifiTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "moment-timezone": "^0.5.13",
+    "mongodb": "^2.2.26",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3",
+    "winston": "^2.3.1"
+  }
+}
